@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "proyecto_nlp",
+			"path": "."
+		},
+		{
+			"name": "Datasets",
+			"path": "../../../Desktop/MASTER IA/PROYECTO NLP/Datasets"
+		}
+	],
+	"settings": {}
+}
